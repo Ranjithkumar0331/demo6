@@ -1,2 +1,2 @@
 # main.py
-print("Hello, Version Control!")
+print("This is a new version!")
