@@ -9,5 +9,6 @@ This is a sample text file for demonstrating Git commands.
 4. **git commit** - Commit staged changes.
 5. **git push** - Push changes to a remote repository.
 6. ** git ** - git
+7. **Ranjith** - Baadshah
 
 This file will be used to demonstrate basic Git functionality.
