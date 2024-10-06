@@ -1,0 +1,12 @@
+# Demo File
+
+This is a sample text file for demonstrating Git commands.
+
+## Git Commands Overview
+1. **git init** - Initialize a new Git repository.
+2. **git status** - Check the status of the repository.
+3. **git add** - Stage changes for commit.
+4. **git commit** - Commit staged changes.
+5. **git push** - Push changes to a remote repository.
+
+This file will be used to demonstrate basic Git functionality.
