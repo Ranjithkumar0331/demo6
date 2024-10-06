@@ -8,5 +8,6 @@ This is a sample text file for demonstrating Git commands.
 3. **git add** - Stage changes for commit.
 4. **git commit** - Commit staged changes.
 5. **git push** - Push changes to a remote repository.
+6. ** git ** - git
 
 This file will be used to demonstrate basic Git functionality.
