@@ -10,7 +10,7 @@ This is a sample text file for demonstrating Git commands.
 5. **git push** - Push changes to a remote repository.
 6. ** git ** - git
 7. **Ranjith** - Student.
-8. ** NTR ** - Day - 1 Box office King
+8. ** Innova ** - Toyota
 9. ** Lab 2 Market innovation pvt. ltd. **
 
 This file will be used to demonstrate basic Git functionality.
