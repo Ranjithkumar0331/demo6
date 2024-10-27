@@ -1,0 +1,30 @@
+cd /d E:\l2m\VCProject 2
+git
+git remote set-url origin https://github.com/Ranjithkumar0331/demo3.git
+git add VCProject 2
+git commit -m "initial commit with project files"
+git pull -u origin master
+git commit -m 'Changes have been committed'
+git commit -m "Changes have been committed"
+git remote set-url origin https://github.com/Ranjithkumar0331/demo4.git
+git remote-v
+git remote -v
+git add demo.txt
+git commit -m "Changes have added"
+git status
+git commit -m "Changes will be added soon"
+git add new-demo.txt
+git commit -m "All changes have been added"
+git push origin master
+git pull origin master
+git log
+git branch branch1
+git checkout branch1
+git add .
+git commit -u "Recent changes have been pushed"
+git commit -m "Recent changes have been added"
+git push master origin
+git push -u origin master
+git push origin branch1
+git checkout master
+doskey /history > command_history.txt
