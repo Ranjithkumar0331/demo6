@@ -3,13 +3,14 @@ git
 git remote set-url origin https://github.com/Ranjithkumar0331/demo3.git
 git add VCProject 2
 git commit -m "initial commit with project files"
-git pull -u origin master
+git push -u origin master // initial push
+git pull origin master
 git commit -m 'Changes have been committed'
 git commit -m "Changes have been committed"
 git remote set-url origin https://github.com/Ranjithkumar0331/demo4.git
 git remote-v
 git remote -v
-git add demo.txt
+git add demo.txt // after changing in local machine
 git commit -m "Changes have added"
 git status
 git commit -m "Changes will be added soon"
