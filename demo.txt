@@ -12,5 +12,6 @@ This is a sample text file for demonstrating Git commands.
 7. **Ranjith** - Student.
 8. ** Innova ** - Toyota
 9. ** Lab 2 Market innovation pvt. ltd. **
+10 ** Sai Vidya Institute of Technology"
 
 This file will be used to demonstrate basic Git functionality.
